@@ -1,6 +1,6 @@
 # musixmatch-api-test
 
-## MusiXMatch API test in PHP, JavaScript, ReactJS and C# (coming...)
+## 🎶 MusiXMatch API test in PHP, JavaScript, ReactJS and C# (coming...)
 
 
 ### ReactJS
