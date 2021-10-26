@@ -1,4 +1,4 @@
-# musixmatch-api-test - [@VideoAmp/musixmatch]( https://github.com/musixmatch )
+# musixmatch-api-test
 
 ## 🎶 @musi MusiXMatch API test in PHP, JavaScript, ReactJS and C# (coming...)
 
