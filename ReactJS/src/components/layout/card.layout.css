@@ -1,0 +1,23 @@
+.card{
+    margin: 1%;
+    float: left;
+    width: 46%;
+    border: 1px solid #fff;
+    background-color: #fff;
+    color: #ff5353;
+    border-radius: 10px;
+    padding: 10px;
+    transition: 0.3s;
+}
+.card.width_100{
+    width: 100% !important;
+}
+.card.width_50{
+    width: 46% !important;
+}
+.card.width_30{
+    width: 29% !important;
+}
+.card.width_25{
+    width: 22% !important;
+}

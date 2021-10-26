@@ -1,0 +1,11 @@
+hr{
+    border: 0;
+    border-bottom: 1px solid #ff5353;
+}
+nav.a{
+    color: #ff5353;
+    transition: 0.3s;
+}
+nav.a:hover{
+    color: #F83636;
+}
