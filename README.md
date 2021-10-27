@@ -6,6 +6,7 @@
 
 ### ⚛️ ReactJS
 This repo is to have a simple ReactJS (using Create-React-App) using the MusiXMatch API call.
+NOT already mobile ready (i haven't still implemented media query in the CSS).
 It has a simple graphics (MusiXMatch like), module, routing and click handler.
 You have to inserto your MUSIXMATCH API KEY into url methods.
 
