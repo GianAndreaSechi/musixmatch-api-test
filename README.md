@@ -1,6 +1,6 @@
 # musixmatch-api-test
 
-## 🎶 MusiXMatch API test in PHP, JavaScript, ReactJS and C# (coming...)
+## 🎶 MusiXMatch API test in PHP, JavaScript, ReactJS and C#
 
 👋 Hi here a simple code example how to access MusiXMatch API (Artists.Chart.Get, Tracks.Chart.Get and Track.Search).
 
